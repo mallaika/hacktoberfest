@@ -4,3 +4,5 @@
 
 
 ## Learning about git and github
+
+### HacktoberFest is amazing.
